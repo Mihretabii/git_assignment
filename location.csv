@@ -2,3 +2,4 @@ record_id,redcap_repeat_instrument,redcap_repeat_instance,facility_latitude,faci
 5731,immunization_data,1,9.6864243,42.7202858
 4000,immunization_data,1,8.7473934,38.9778832
 5250,immunization_data,1,9.6331021,42.5085184
+print
